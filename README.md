@@ -3,7 +3,7 @@
 This is my very first React web application, built by following a beginner-friendly tutorial by [JavaScript Mastery](https://www.youtube.com/watch?v=b9eMGE7QtTk). It’s a simple movie search app that uses the OMDb API to display movie data by title.
 
 <p align="center">
-  <img src="screenshot.png" alt="MovieLand Screenshot" width="600"/>
+  <img src="image.png" alt="MovieLand Screenshot" width="600"/>
 </p>
 
 ## Features
